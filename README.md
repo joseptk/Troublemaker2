@@ -1,4 +1,4 @@
-# Troublemaker2
+# Troublemaker2 Freecad Edition
 
 #### ! PLEASE NOTE THAT WE NO LONGER ACTIVELY SUPPORT THIS PROJECT. 
 
