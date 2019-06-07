@@ -8,6 +8,10 @@ Troublemaker v2 3D printer, part of [GoodEnoughCNC](http://goodenoughcnc.eu/) fa
 ![Troublemaker-v2-1](Troublemaker-2.jpg)
 ![Troublemaker-v2-1](Troublemaker-3.jpg)
 ![Troublemaker-v2-1](Troublemaker-4.jpg)
+![Troublemaker-v2-1](Troublemaker-1-freecad.png)
+![Troublemaker-v2-1](Troublemaker-2-freecad.png)
+![Troublemaker-v2-1](Troublemaker-3-freecad.png)
+![Troublemaker-v2-1](Troublemaker-4-freecad.png)
 
 ## Firmware
 Firmware is located in this repository as a .hex file. Source is avaialble separately in the following repository: https://github.com/IRNAS/Marlin
