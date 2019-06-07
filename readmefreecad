@@ -1,3 +1,14 @@
-Using DXF to create freecad files.
-FreeCad 0.18
-a2plus 
+Using DXF from the creators to create freecad files.
+
+OS: Linux Mint 19.1
+Word size of OS: 64-bit
+Word size of FreeCAD: 64-bit
+Version: 0.18.1.
+Build type: Release
+Python version: 3.6.7
+Qt version: 5.9.5
+Coin version: 4.0.0a
+OCC version: 7.3.0
+Locale: English/UnitedStates (en_US)
+
+Freecad Files using automated features.
